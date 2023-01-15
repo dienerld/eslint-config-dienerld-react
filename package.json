@@ -1,12 +1,12 @@
 {
-  "name": "@dienerld/eslint-config-react",
+  "name": "eslint-config-dienerld-react",
   "version": "1.0.0",
   "private": false,
   "description": "ESLint configuration used by dienerld.",
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "dienerld/eslint-config-dienerld-react"
+    "url": "github.com/dienerld/eslint-config-dienerld-react"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
